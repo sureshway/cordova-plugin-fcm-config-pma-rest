@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "958467249928",
+    "firebase_url": "https://how-admin.firebaseio.com",
+    "project_id": "how-admin",
+    "storage_bucket": "how-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958467249928:android:0df42fc032b46e5e",
+        "android_client_info": {
+          "package_name": "com.hubofwallet.HoWAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958467249928-qmqn225s13nm3brg1ivse5cuaq3p1f4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKUVkvUI4n0g_ggB2XfB6S1pkCSeC96w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
