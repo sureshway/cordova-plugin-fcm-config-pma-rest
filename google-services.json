@@ -1,29 +1,25 @@
 {
   "project_info": {
-    "project_number": "958467249928",
-    "firebase_url": "https://how-admin.firebaseio.com",
-    "project_id": "how-admin",
-    "storage_bucket": "how-admin.appspot.com"
+    "project_number": "530247071563",
+    "firebase_url": "https://howorkforce-a5fd7.firebaseio.com",
+    "project_id": "howorkforce-a5fd7",
+    "storage_bucket": "howorkforce-a5fd7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:958467249928:android:92329d8b019394a2",
+        "mobilesdk_app_id": "1:530247071563:android:6d4efcbe5300bf64",
         "android_client_info": {
-          "package_name": "com.hubofwallet.HoW_Admin"
+          "package_name": "com.hubofwallet.Howork.Force"
         }
       },
       "oauth_client": [
         {
-          "client_id": "958467249928-qmqn225s13nm3brg1ivse5cuaq3p1f4g.apps.googleusercontent.com",
+          "client_id": "530247071563-53ku02rrf0em0076opob6tk6n20vgli9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDVKUVkvUI4n0g_ggB2XfB6S1pkCSeC96w"
-        }
-      ],
+      "api_key": [],
       "services": {
         "analytics_service": {
           "status": 1
