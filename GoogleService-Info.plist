@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>958467249928-sjmeipfs1g2l8111l4v2vmngv0k9c116.apps.googleusercontent.com</string>
+	<string>399542835092-daau5t74fm28dbrkohjq7q54c8q5bv9j.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.958467249928-sjmeipfs1g2l8111l4v2vmngv0k9c116</string>
+	<string>com.googleusercontent.apps.399542835092-daau5t74fm28dbrkohjq7q54c8q5bv9j</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDZNdModyGQWDmh2VEi0fzDZPGfYTQu6lo</string>
+	<string>AIzaSyCL7q3iGXZ0SjF4SfmYFImLEvNicjkzmfo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>958467249928</string>
+	<string>399542835092</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.hubofwallet.HoW-Admin</string>
+	<string>com.hubofwallet.Howork.Force</string>
 	<key>PROJECT_ID</key>
-	<string>how-admin</string>
+	<string>howorkforce-78cdd</string>
 	<key>STORAGE_BUCKET</key>
-	<string>how-admin.appspot.com</string>
+	<string>howorkforce-78cdd.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:958467249928:ios:e5a87951819d2405</string>
+	<string>1:399542835092:ios:6d4efcbe5300bf64</string>
 	<key>DATABASE_URL</key>
-	<string>https://how-admin.firebaseio.com</string>
+	<string>https://howorkforce-78cdd.firebaseio.com</string>
 </dict>
 </plist>
