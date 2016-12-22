@@ -1,5 +1,5 @@
 {
-    "name": "cordova-plugin-fcm-config",
+    "name": "cordova-plugin-fcm-config-user",
     "version": "1.0.0",
     "description": "This plugin copies the required fcm configurations in the project folder",
     "scripts": {
