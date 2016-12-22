@@ -1,25 +1,29 @@
 {
   "project_info": {
-    "project_number": "530247071563",
-    "firebase_url": "https://howorkforce-a5fd7.firebaseio.com",
-    "project_id": "howorkforce-a5fd7",
-    "storage_bucket": "howorkforce-a5fd7.appspot.com"
+    "project_number": "399542835092",
+    "firebase_url": "https://howorkforce-78cdd.firebaseio.com",
+    "project_id": "howorkforce-78cdd",
+    "storage_bucket": "howorkforce-78cdd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:530247071563:android:6d4efcbe5300bf64",
+        "mobilesdk_app_id": "1:399542835092:android:6d4efcbe5300bf64",
         "android_client_info": {
           "package_name": "com.hubofwallet.Howork.Force"
         }
       },
       "oauth_client": [
         {
-          "client_id": "530247071563-53ku02rrf0em0076opob6tk6n20vgli9.apps.googleusercontent.com",
+          "client_id": "399542835092-cuel476pnbqsv52bhr9uqbn7obql3goo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
-      "api_key": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWWllg3hCGVnmbvbwrnYjEBLMgPE3Shs"
+        }
+      ],
       "services": {
         "analytics_service": {
           "status": 1
