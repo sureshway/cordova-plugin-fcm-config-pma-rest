@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-fcm-config"
+    id="cordova-plugin-fcm-config-user"
     version="1.0.0">
     
-    <name>cordova-plugin-fcm-config</name>
+    <name>cordova-plugin-fcm-config-user</name>
     
     <description>This plugin copies the required fcm configurations in the project folder</description>
     
