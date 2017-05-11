@@ -1,42 +1,36 @@
 {
-  "project_info": {
-    "project_number": "399542835092",
-    "firebase_url": "https://howorkforce-78cdd.firebaseio.com",
-    "project_id": "howorkforce-78cdd",
-    "storage_bucket": "howorkforce-78cdd.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:399542835092:android:6d4efcbe5300bf64",
-        "android_client_info": {
-          "package_name": "com.hubofwallet.Howork.Force"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "399542835092-cuel476pnbqsv52bhr9uqbn7obql3goo.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAwWWllg3hCGVnmbvbwrnYjEBLMgPE3Shs"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
+    "project_info": {
+        "project_number": "651351354797",
+        "firebase_url": "https://pma-rest.firebaseio.com",
+        "project_id": "pma-rest",
+        "storage_bucket": "pma-rest.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:651351354797:android:5e3c58bc46b57077",
+            "android_client_info": {
+                "package_name": "com.pickmyapp.rest"
+            }
         },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+        "oauth_client": [{
+            "client_id": "651351354797-2jis580odg94kr93meno607cf3ge31ff.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAg839NbgeNSRiuQkHjjlr_q2Mjr5gjNJs"
+        }],
+        "services": {
+            "analytics_service": {
+                "status": 1
+            },
+            "appinvite_service": {
+                "status": 1,
+                "other_platform_oauth_client": []
+            },
+            "ads_service": {
+                "status": 2
+            }
         }
-      }
-    }
-  ],
-  "configuration_version": "1"
+    }],
+    "configuration_version": "1"
 }
